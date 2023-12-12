@@ -13,7 +13,9 @@
       ]
     },
     "codespaces": {
-      "codspace.md"
+      "openFiles":[
+        "codspace.md"
+      ]
     }
   }
 }
